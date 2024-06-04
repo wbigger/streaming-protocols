@@ -1,6 +1,6 @@
 # Streaming protocols
 
-> Per una trattazione più approfondita, consultare le [dispense](https://classroom.google.com/c/NjIzODMzMzc0NjU3/m/NjkzNTIyNTgxNjE4/details) di Santo Dell'Omo sull'argomento (accesso richiesto).
+> Per una trattazione più approfondita ed in italiano, consultare le [dispense](https://classroom.google.com/c/NjIzODMzMzc0NjU3/m/NjkzNTIyNTgxNjE4/details) del prof.Dell'Omo sull'argomento (accesso richiesto).
 
 | Protocol Name | Developed By | Key Differences|
 |---------------|--------------|----------------|
